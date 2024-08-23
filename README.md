@@ -1,1 +1,1 @@
-# pythonProjects
+# pythonProjects and #studies
